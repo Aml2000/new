@@ -89,7 +89,7 @@ h3{
    cursor: pointer;
  }
 
-.about{
+.circular-image{
   background-image: url("P.png");
   width: 120px;
   height: 120px;
@@ -101,7 +101,7 @@ h3{
   float: right;
   object-fit: contain;
 }
-.see{
+.About{
  display: flex;
   margin-top: 5px;
   margin-left: 5px;
@@ -112,7 +112,7 @@ h3{
 
   
 }
-.see p{
+.About p{
 color:#7e7b7e;
 margin-bottom: -.5rem;
 height: 42px;
@@ -122,7 +122,7 @@ margin-top: .5rem;
 
 
 }
-.see h6{
+.About h6{
 
   font: normal normal normal ;
   color: #7e7b7e;
@@ -215,3 +215,5 @@ font-family: Droid,Arial,sans-serif;
 font-size: 16px;
 font-weight: 500;
 }
+
+ 
